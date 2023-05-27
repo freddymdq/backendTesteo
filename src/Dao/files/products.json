@@ -1,0 +1,84 @@
+[
+	{
+		"pid": "PROD1",
+		"title": "SWING",
+		"description": "Delux whisky reserve ",
+		"price": 23780,
+		"img": "https://i.ibb.co/3Bhwm06/img-swing.png",
+		"status": true,
+		"code": "cod001",
+		"stock": 4
+	},
+	{
+		"pid": "PROD2",
+		"title": "J. WALKER",
+		"description": "Red Label",
+		"price": 8780,
+		"img": "https://i.ibb.co/VVyb8kt/jhonnie-walker-red-label.png",
+		"status": true,
+		"code": "cod002",
+		"stock": 10
+	},
+	{
+		"pid": "PROD3",
+		"title": "J. WALKER",
+		"description": "Black Label",
+		"price": 11780,
+		"img": "https://i.ibb.co/RzYCMS5/jhonnie-walker.png",
+		"status": true,
+		"code": "cod003",
+		"stock": 7
+	},
+	{
+		"pid": "PROD4",
+		"title": "SINGLETON",
+		"description": "Whisky reserve",
+		"price": 13780,
+		"img": "https://i.ibb.co/0MLB74Z/img-the-singleton.png",
+		"status": true,
+		"code": "cod004",
+		"stock": 11
+	},
+	{
+		"pid": "PROD5",
+		"title": "ZACAPA",
+		"description": "Delux Ron destile ",
+		"price": 18780,
+		"img": "https://i.ibb.co/0MWFj0D/img-zunca.png",
+		"status": true,
+		"code": "cod005",
+		"stock": 12
+	},
+	{
+		"pid": "PROD6",
+		"title": "SHERIDANS",
+		"description": "Aperitive",
+		"price": 11780,
+		"img": "https://i.ibb.co/G9rs3xn/img-sheridan.png",
+		"status": true,
+		"code": "cod006",
+		"stock": 19
+	},
+	{
+		"pid": "PROD7",
+		"title": "VAT 69",
+		"description": "Whisky",
+		"price": 2280,
+		"img": "https://i.ibb.co/N9j6h1c/VAT-69-Whisky.png",
+		"status": true,
+		"code": "cod007",
+		"stock": 12
+	},
+	{
+		"pid": "PROD8",
+		"title": "TANQUERRAY",
+		"description": "London Dry Gin",
+		"price": 2280,
+		"img": "https://i.ibb.co/hRpvrhr/tanqueray-london-dry-gin.png",
+		"status": true,
+		"code": "cod008",
+		"stock": 9
+	}
+]
+
+
